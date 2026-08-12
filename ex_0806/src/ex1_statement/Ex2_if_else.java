@@ -40,7 +40,7 @@ public class Ex2_if_else {
 
         //위의 30어쩌고 코드를
         //삼항연산자로 구현
-        age = 30;
+        age = 25;
         str = "";
         str = age >= 30 ? "드실만큼" : "더 드셔도";
         System.out.println(str);

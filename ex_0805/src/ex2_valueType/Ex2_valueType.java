@@ -8,7 +8,7 @@ public class Ex2_valueType {
         System.out.println("ch : " + ch2);
 
         //실수형 : 소수점을 포함하는 값을 저장하기 위한 자료형
-        float f1 = 100;
+        float f1 = 50;
         f1 = 3.14F;
 
         double d1 = 3.14;
